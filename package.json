@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "2",
-    "ref": "1"
+    "@saleae/ref": "2.0.1"
   },
   "devDependencies": {
     "bindings": "1",
