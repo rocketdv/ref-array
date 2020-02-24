@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "2",
-    "@saleae/ref": "2.0.1"
+    "ref": "git+https://github.com/rocketdv/ref.git"
   },
   "devDependencies": {
     "bindings": "1",
